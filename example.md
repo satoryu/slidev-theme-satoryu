@@ -1,5 +1,6 @@
 ---
 theme: ./
+background: https://www.satoryu.com/assets/img/top_banner.jpg
 ---
 
 # Slidev テーマ: satoryu
@@ -22,3 +23,10 @@ This layout is for pages introducing topics in slides.
 - 3行くらいが目安
 
 ---
+layout: image
+image: https://source.unsplash.com/6cfK0SEtpbY
+---
+
+# layout: `image`
+
+
