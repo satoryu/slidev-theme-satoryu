@@ -1,5 +1,5 @@
 <template>
-  <base-layout>
+  <base-layout layout-name="default">
     <slot />
   </base-layout>
 </template>
