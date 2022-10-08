@@ -30,8 +30,8 @@
     "highlighter": "all",
     "defaults": {
       "fonts": {
-        "sans": "M1 PLUS 1",
-        "serif": "Zen Antique Soft",
+        "sans": "Noto Sans Japanese",
+        "serif": "Noto Serif Japanese",
         "mono": "Source Code Pro"
       },
       "hightlighter": "prism"
