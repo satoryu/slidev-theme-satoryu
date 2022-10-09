@@ -29,4 +29,3 @@ image: https://source.unsplash.com/6cfK0SEtpbY
 
 # layout: `image`
 
-

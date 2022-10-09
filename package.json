@@ -1,6 +1,7 @@
 {
   "name": "slidev-theme-satoryu",
-"version": "0.0.1",
+  "license": "MIT",
+  "version": "0.0.1",
   "keywords": [
     "slidev-theme",
     "slidev"
