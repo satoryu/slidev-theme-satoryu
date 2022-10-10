@@ -12,7 +12,9 @@
 }
 
 .slidev-layout.cover,
-.slidev-layout.intro {
+.slidev-layout.intro,
+.slidev-layout.section
+ {
   @apply h-full flex flex-col justify-center text-center;
 
   h1 {
