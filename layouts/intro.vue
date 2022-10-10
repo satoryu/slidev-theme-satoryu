@@ -1,16 +1,5 @@
 <template>
-  <base-layout layout-name="intro">
+  <div class="slidev-layout intro">
     <slot />
-  </base-layout>
+  </div>
 </template>
-
-<script>
-import BaseLayout from '../components/BaseLayout.vue'
-
-export default {
-  components: { BaseLayout },
-  setup() {
-
-  },
-}
-</script>
