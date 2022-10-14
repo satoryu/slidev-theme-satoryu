@@ -49,3 +49,17 @@ photoId: mBRfYA0dYYE
 ---
 
 # Example: unsplash layout
+
+---
+layout: unsplash-right
+photoId: bsSIk3LV_NE
+---
+
+# layout: `unsplash-right`
+
+```markdown
+---
+layout: unsplash-right
+photoId: bsSIk3LV_NE
+---
+```

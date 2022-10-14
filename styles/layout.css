@@ -40,3 +40,10 @@
   }
 
 }
+
+.slidev-layout.unsplash {
+  h1 {
+    @apply p-1rem bg-gray-500 bg-opacity-30;
+    color: #F3F3F3;
+  }
+}

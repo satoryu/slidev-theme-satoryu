@@ -1,7 +1,11 @@
 <template>
-  <div class="slidev-layout unsplash" :style="styles">
-    <slot />
+  <div class="grid grid-cols-2 w-full h-full">
+    <div class="slidev-layout default">
+      <slot />
+    </div>
+    <div class="w-full h-full" :style="styles">
     <shoutout :user="user" />
+    </div>
   </div>
 </template>
 
@@ -14,8 +18,11 @@ export default {
   props: {
     photoId: {
       type: String,
-      required: true,
+      required: true
     },
+    class: {
+      type: String
+    }
   },
   setup(props) {
     const user = ref(null);
@@ -27,6 +34,6 @@ export default {
     });
 
     return { user, styles };
-  },
-};
+  }
+}
 </script>
