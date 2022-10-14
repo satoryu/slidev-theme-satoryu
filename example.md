@@ -63,3 +63,17 @@ layout: unsplash-right
 photoId: bsSIk3LV_NE
 ---
 ```
+
+---
+layout: unsplash-left
+photoId: MgrEuJOtayk
+---
+
+# layout: `unsplash-left`
+
+```markdown
+---
+layout: unsplash-left
+photoId: MgrEuJOtayk
+---
+```
