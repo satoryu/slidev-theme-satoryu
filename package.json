@@ -20,7 +20,9 @@
     "@slidev/types": "^0.36.5",
     "codemirror-theme-vars": "^0.1.1",
     "prism-theme-vars": "^0.2.4",
-    "theme-vitesse": "^0.5.2"
+    "theme-vitesse": "^0.5.2",
+    "unsplash-js": "^7.0.15",
+    "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
     "@slidev/cli": "^0.36.5"
@@ -35,7 +37,8 @@
         "serif": "Noto Serif Japanese",
         "mono": "Source Code Pro"
       },
-      "hightlighter": "prism"
+      "hightlighter": "prism",
+      "unsplash": "hogehoge"
     }
   }
 }
