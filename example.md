@@ -23,9 +23,29 @@ This layout is for pages introducing topics in slides.
 - 3行くらいが目安
 
 ---
-layout: image
-image: https://source.unsplash.com/6cfK0SEtpbY
+layout: section
 ---
 
-# layout: `image`
+# layout: `unsplash`
 
+---
+
+# Usage
+
+- Specify an image id of [Unsplash](https://unsplash.com/)
+
+```markdown
+---
+layout: unsplash
+image-id: mBRfYA0dYYE
+---
+
+# Example: unsplash layout
+```
+
+---
+layout: unsplash
+photoId: mBRfYA0dYYE
+---
+
+# Example: unsplash layout
