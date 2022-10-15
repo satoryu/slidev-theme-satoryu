@@ -22,6 +22,10 @@ This layout is for pages introducing topics in slides.
 - 長くない箇条書き
 - 3行くらいが目安
 
+長い文章はあまり書かないことを前提としている。
+
+短く簡潔に書くことを頑張りましょう。
+
 ---
 layout: section
 ---

@@ -5,10 +5,14 @@
 }
 
 .slidev-layout {
-  @apply text-40px leading-1.3em;
+  @apply text-40px;
 
   color: #343434;
   background-color: #F3F3F3;
+
+  p {
+    @apply leading-45px;
+  }
 }
 
 .slidev-layout.cover,
@@ -18,7 +22,7 @@
   @apply h-full flex flex-col justify-center text-center;
 
   h1 {
-    @apply text-8xl leading-20;
+    @apply text-8xl leading-10;
   }
 
   h1 + p {
