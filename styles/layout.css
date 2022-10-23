@@ -22,7 +22,7 @@
   @apply h-full flex flex-col justify-center text-center;
 
   h1 {
-    @apply text-8xl leading-10;
+    @apply text-8xl leading-20;
   }
 
   h1 + p {
@@ -43,6 +43,17 @@
     @apply leading-1.3em;
   }
 
+}
+
+.slidev-layout.quote {
+  @apply h-full flex flex-col justify-center;
+
+  h1 {
+    @apply font-serif text-center p-10 bg-gray-300;
+  }
+  h2 {
+    @apply font-serif text-right italic;
+  }
 }
 
 .slidev-layout.unsplash {

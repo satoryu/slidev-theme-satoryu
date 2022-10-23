@@ -81,3 +81,29 @@ layout: unsplash-left
 photoId: MgrEuJOtayk
 ---
 ```
+
+---
+
+# layout `quote`
+
+引用で使用するレイアウト
+
+## Usage
+
+```markdown
+---
+layout: quote
+
+# カタツムリ <br/> 休まず登れ<br/>富士の山
+## Suzuka NAKAMOTO, 1996 -
+
+---
+```
+
+---
+layout: quote
+---
+
+# カタツムリ <br/> 休まず登れ<br/>富士の山
+## Suzuka NAKAMOTO, 1996 -
+
