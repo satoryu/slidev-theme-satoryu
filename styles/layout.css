@@ -22,7 +22,7 @@
   @apply h-full flex flex-col justify-center text-center;
 
   h1 {
-    @apply text-8xl leading-20;
+    @apply text-7xl leading-20;
   }
 
   h1 + p {
