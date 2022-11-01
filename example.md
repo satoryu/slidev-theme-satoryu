@@ -107,3 +107,15 @@ layout: quote
 # カタツムリ <br/> 休まず登れ<br/>富士の山
 ## Suzuka NAKAMOTO, 1996 -
 
+---
+layout: image
+image: https://source.unsplash.com/dOnEFhQ7ojs
+---
+
+# layout image
+
+<div class="absolute bottom-0 right-0 pr-1 text-xs">
+
+Photo by <a href="https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Priscilla Du Preez</a> on <a href="https://unsplash.com/s/photos/lazy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+</div>
