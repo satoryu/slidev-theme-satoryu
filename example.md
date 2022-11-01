@@ -119,3 +119,12 @@ image: https://source.unsplash.com/dOnEFhQ7ojs
 Photo by <a href="https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Priscilla Du Preez</a> on <a href="https://unsplash.com/s/photos/lazy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 </div>
+
+---
+layout: references
+---
+
+# 参考文献
+
+- [David Thomas, Andrew Hunt, "Pragmatic Programmer, The: Your journey to mastery, 20th Anniversary Edition (English Edition)", Addison-Wesley Professional, 2019](https://amzn.to/3FwnQyQ)
+- [Tatsuy Sato, Satoryu's Website, https://www.satoryu.com/](https://www.satoryu.com)

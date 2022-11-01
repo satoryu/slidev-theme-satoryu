@@ -64,3 +64,14 @@
     color: #F3F3F3;
   }
 }
+
+.slidev-layout.references {
+  ul li,
+  ol li {
+    @apply text-1xl;
+
+    a {
+      border-style: none;
+    }
+  }
+}
