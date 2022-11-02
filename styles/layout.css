@@ -5,7 +5,7 @@
 }
 
 .slidev-layout {
-  @apply text-40px;
+  @apply text-30px;
 
   color: #343434;
   background-color: #F3F3F3;
@@ -36,7 +36,7 @@
 
 .slidev-layout.default {
   h1 {
-    @apply text-50px text-center leading-20;
+    @apply text-40px leading-20;
   }
 
   ul li {
@@ -49,7 +49,7 @@
   @apply h-full flex flex-col justify-center;
 
   h1 {
-    @apply font-serif text-center p-10 bg-gray-300;
+    @apply font-serif p-10 bg-gray-300;
   }
   h2 {
     @apply font-serif text-right italic;
